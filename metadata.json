@@ -1,0 +1,6 @@
+{
+  "name": "LKPD Digital Detektif Indera",
+  "description": "Media Pembelajaran Interaktif Lembar Kerja Peserta Didik (LKPD) Digital Detektif Indera untuk investigasi Panca Indera dan pemecahan kasus sains.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
